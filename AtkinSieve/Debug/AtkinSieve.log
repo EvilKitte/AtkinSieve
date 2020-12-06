@@ -1,0 +1,6 @@
+﻿  AtkinSieve.cpp
+C:\Users\Evil Cat\source\repos\AtkinSieve\AtkinSieve\AtkinSieve.cpp(20,23): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\Evil Cat\source\repos\AtkinSieve\AtkinSieve\AtkinSieve.cpp(25,23): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\Evil Cat\source\repos\AtkinSieve\AtkinSieve\AtkinSieve.cpp(31,27): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\Users\Evil Cat\source\repos\AtkinSieve\AtkinSieve\AtkinSieve.cpp(39,23): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+  AtkinSieve.vcxproj -> C:\Users\Evil Cat\source\repos\AtkinSieve\Debug\AtkinSieve.exe
